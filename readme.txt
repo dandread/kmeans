@@ -1,9 +1,3 @@
-Name: Dominick D'Andrea
-JHU ID: 75805A
-
-Module 5 Assignment: K-means Clustering
-Due: 10/05/2020 at 11:59 PM EST
-
 Summary
 In this module, an unsupervised machine learning algorithm, k-means
 clustering, was employed to create four groups of data points, each
